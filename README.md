@@ -4,6 +4,10 @@ O Dataset utilizado foi o [**Custumer Support on Twitter**](https://www.kaggle.c
 
 * ## Etapa de limpeza , preparação dos dados e criação de um 3-gram de chars concluída
 
+* ## Próximos passos :
+1 - treinamento e testes usando as Redes recorrentes e transformers já implementadas
+
+2 - experimentos explorando outras possibilidades como GPT3 
 <!--
 # My GitHub README
 
